@@ -1,4 +1,4 @@
-package com.example.lenovo.googlead;
+
 
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
